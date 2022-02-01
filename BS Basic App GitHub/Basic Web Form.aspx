@@ -11,6 +11,7 @@
         <div>
             <%BS_Basic_App_GitHub.Class1 tp = new BS_Basic_App_GitHub.Class1(); %>
             <%=tp.Name %>
+            //Making a comment
         </div>
     </form>
 </body>
