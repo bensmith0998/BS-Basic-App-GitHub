@@ -12,6 +12,7 @@
             <%BS_Basic_App_GitHub.Class1 tp = new BS_Basic_App_GitHub.Class1(); %>
             <%=tp.Name %>
             //Making a comment
+            //This is the feature comment going to master
         </div>
     </form>
 </body>
